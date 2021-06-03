@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Pilulae Antiscorbuticae. Pills against that epidemic disease the scurvy, with all its symptoms ...</title>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28125</idno><idno type="EEBO-CITATION">99888987_196132</idno>
+  <idno type="VID">196132</idno>
+  <idno type="EEBO-PROQUEST">2248545358</idno>
+  
+            <idno type="STC">Wing P2241</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[128]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[139]</idno>
+            <idno type="STC">Interim Tract Supplement Guide 551.a.32[141]</idno>
+            <idno type="STC">ESTC R232616</idno>
+            <idno type="PROQUEST">ocm99888987</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888987e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28125)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 196132)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E8:2[127], E8:2[138], E8:2[140])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Pilulae Antiscorbuticae. Pills against that epidemic disease the scurvy, with all its symptoms ...</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Title taken from caption and first lines of text.</note>
+                  <note>Imprint from Wing.</note>
+                  <note>Item at reel position E8:2[140] appears to be a slightly different setting, i.e. this document has "epidemick disease" instead, in first line of text; both pages [2] torn at head slightly affecting text.</note>
+                  <note>Item at reel position E8:2[140] imperfect: torn at head slightly affecting text.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Advertising --  Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Advertising --  Drugs --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="advert_for_medicine">
+            <pb facs="tcp:196132:1"/>
+            <head>PILULAE ANTISCORBUTICAE.</head>
+            <p>PIlls against that Epidemick Disease the <hi>Scurvy,</hi> with all its Symp<g ref="char:EOLhyphen"/>toms, (which for the Instruction of the ignorant, are) the putrefaction of the Gums, rotten, black, and loose Teeth: stinking breath, laziness and dulness of the Limbs, and the whole body; giddiness in the head; sudden Flushings, heat and redness in the Face; some have risings on their body as if stung with Bugs; spots in the Legs and Thighs; of a red, black, purple, or blew colour; others have an itching in some or all parts of the body; a shortness of breath, red Gravel in the Urine like Brick-dust; strange pains and Aches in several parts of the Bo<g ref="char:EOLhyphen"/>dy; Fluxes of the Belly, Dysenteries, swellings and breakings out in the body, which these pills certainly cure, by purging away those Tar<g ref="char:EOLhyphen"/>tareous humours which occasion this Disease. They likewise open the Obstructions of the Womb, Liver, Spleen and Stomach, and there<g ref="char:EOLhyphen"/>fore an admirable remedy for such as have the Green-sickness; and such as want their Monthly Terms. The black or yellow Jaundice, Hypocondriack Vapours, and all Diseases of the Head, <hi>viz.</hi> Vertigo, or Swimming of the Head, Palsie, Coma, Lethargy, Carus, Apoplexy; they are a Sovereign remedy for the Dropsie. They cleanse the Sto<g ref="char:EOLhyphen"/>mach, Meseraick Veins, and passages of the Chyle and Nutriment. In fine, consult the paper of Directions for the use of these Medicines to those Diseases for which they are recommended; and I dare be bold to assure you of a good success; for I recommend them for nothing but what my daily experience approves. Those that drink the <hi>Spaw, Tunbridge, Epsom, Barnet, Astrop, Dulledge, Isling<g ref="char:EOLhyphen"/>ton,</hi> or any other Medicinal Waters, cannot use a better Remedy, and in all cases where purging is required. The Box containing 18 Pills, 1 <hi>s.</hi> 6 <hi>d.</hi>
+            </p>
+         </div>
+         <div type="advert_for_medicine">
+            <head>SOLAMEN MISERIS.</head>
+            <p>WHich causes Expectoration, and is an admirable Medicine for the Asthma, Ptisick, Catarrhs, and Rheums; In a short time it takes off the tickling Defluxion that falls from the Head upon the Lungs; it opens and takes away all Stoppages and Pains of the Stomach, Lungs, and Chest, therefore an extraor<g ref="char:EOLhyphen"/>dinary Remedy for the Consumptive. It cures a new Cough, or Cold, though never so violent, in three or four times taking, and old ones it removes in a small time. It takes off all looseness, and Vo<g ref="char:EOLhyphen"/>mitings, and Surfeits, especially after hard drinking. The Measels and Small-Pox it brings out to admiration. It is an infallible Re<g ref="char:EOLhyphen"/>medy for all windy Stomachs, and for all windy Distempers, as
+<pb facs="tcp:196132:2"/>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, Griping in the Guts in Men, Women, and Children; it is admirably comfortable to the Sciatical, and those that have Aches or pains in their Limbs whatsoever. B<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> for the Tooth-ach, I be<g ref="char:EOLhyphen"/>lieve there is not the like Remedy; for in an hour or less it gives ease, whether the pain be in a sound or ro<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ten Tooth, in one or all the Teeth, not by stopping the Tooth, but by taking it inwardly it dis<g ref="char:EOLhyphen"/>pels the Rheum that causes the pain, as yet it never fail'd me. The first dose takes off the violent pain, the next perfectly cures it. <hi>Price</hi> 1 <hi>s.</hi> 6 <hi>d.</hi> the Pot.</p>
+         </div>
+         <div type="advert_for_medicine">
+            <head>FEBRIFƲGA:</head>
+            <p>OR an excellent Remedy for all sorts of Fevers and Agues, that in two or three Fits infallibly cures the most violent Tertian or Quartan. <hi>Price</hi> 5 <hi>s.</hi>
+            </p>
+         </div>
+         <div type="advert_for_medicine">
+            <head>EXUKIANO: Or the only Vene<g ref="char:EOLhyphen"/>real Antidote without <hi>MERCURY.</hi>
+            </head>
+            <p>BEing an easie course of Physick, of that admirable Vertue, as to expel all Venereal Malignities gotten by foul Men or Women: Never failing to remove all sharpness, or heat of Urine, in twice or thrice taking. It cures all Ulcers and Fistula's in the Throat, Womb, or any part of the body; if timely used, it flings off the Venom, and prevents a Pox. It never fails to cure the Whites and Weakness of the back. And whereas all pretenders in this manner offer you a single Medicine, as a Box of Pills, or the like, which they sell you for a small matter, to invite you to buy, tho <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o no purpose: I desire all people to ask at their leisure, the most able and learned Practitio<g ref="char:EOLhyphen"/>ners, whether the Physick wherewith this Distemper must be cured, can be af<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rded for twice those rates they set upon them? And whereas others use <hi>Mercury</hi> in all their Physical Courses, which proves of dreadful consequence to their Patients; lest it should be thought, that while I rail against it, I <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>se it my sel<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> I here affirm, That if any Artist can make it appear I have the least of it in my Composition, I will be bound to give him 500 <hi>l.</hi> The whole Packet or parcel contains two Doses of purging Powders, a Glass of Elixir, and a pot of Balsom, price 3 <hi>s.</hi> Many have been cured with one Packet, but two never fail.</p>
+         </div>
+         <div type="text">
+            <p>
+               <hi>All these Remedies hold good several years, therefore convenient for such as go to Sea o<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Foreign Plantations.</hi> They that live at a distance, may have them sent by the Penny-Post, sending Directions.</p>
+            <p>They are to be sold at the <hi>Whitehall Coffee-house</hi> in <hi>Buckingham-Court</hi> near <hi>Whitehall.</hi> Mrs. <hi>More's</hi> a Salter next dote to the <hi>White-Hart Inn</hi> in <hi>Southwark.</hi> Mr. <hi>James Neale's</hi> near <hi>Redriff-Stairs.</hi> Mr. <hi>Hen. Barbers</hi> in <hi>Ship-Ally</hi> in <hi>Well-Close.</hi> And at my House at the <hi>Carv'd Posts</hi> in <hi>Stonecutter-street,</hi> between <hi>Shoe-lane</hi> and <hi>Fleet-ditch,</hi> where I am to be spoken with from Eight to Eleven every Morning, and from Four to Six every Evening. <hi>The Poor may have Advice for nothing.</hi>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
